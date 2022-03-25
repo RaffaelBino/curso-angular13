@@ -8,6 +8,12 @@ import { Component, OnInit } from '@angular/core';
 export class FirstComponentComponent implements OnInit {
   name: string = 'Raffael';
   age: number = 30;
+  job = 'Programador';
+  hobbies = ['Correr', 'Jogar', 'Estudar' ];
+  car = {
+    name: 'Polo',
+    year: 2019
+  }
 
   constructor() {}
 
