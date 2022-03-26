@@ -11,7 +11,7 @@ export class ParentDataComponent implements OnInit {
     email: string;
     role: string;
   }
-  @Input() userAge!: number;
+  @Input() userAge: number = 0;
 
   constructor() {}
 
