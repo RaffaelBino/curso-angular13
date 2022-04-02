@@ -1,9 +1,28 @@
 {
-    "animals": [
-        { "id": 1, "name": "Mel", "type": "Dog", "age": 11 },
-        { "id": 2, "name": "Ikki", "type": "Bird", "age": 6 },
-        { "id": 3, "name": "Lola", "type": "Cat", "age": 4 },
-        { "id": 4, "name": "Cristal", "type": "Cat", "age": 2 },
-        { "id": 5, "name": "Bob", "type": "Horse", "age": 1 }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Mel",
+      "type": "Dog",
+      "age": 11
+    },
+    {
+      "id": 2,
+      "name": "Ikki",
+      "type": "Bird",
+      "age": 6
+    },
+    {
+      "id": 3,
+      "name": "Lola",
+      "type": "Cat",
+      "age": 4
+    },
+    {
+      "id": 4,
+      "name": "Cristal",
+      "type": "Cat",
+      "age": 2
+    }
+  ]
 }
