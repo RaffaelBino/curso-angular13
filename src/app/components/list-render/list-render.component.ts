@@ -19,13 +19,7 @@ export class ListRenderComponent implements OnInit {
   //   { name: 'Cristal', type: 'Cat', age: 2 },
   //   { name: 'Bob', type: 'Horse', age: 1 },
   // ];
-
-  animal: Animal = {
-    name: 'Teste',
-    type: 'Alguma coisa',
-    age: 0,
-  };
-
+  
   animalDetails: string = '';
 
   constructor(private listService: ListService) {
