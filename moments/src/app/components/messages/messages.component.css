@@ -12,13 +12,13 @@
   flex-direction: column;
 }
 
-.message header {
+.message-header {
   display: flex;
   justify-content: space-between;
   margin-bottom: 1em;
 }
 
-.message header button {
+.message-header button {
   padding: 0.5em;
   cursor: pointer;
 }
